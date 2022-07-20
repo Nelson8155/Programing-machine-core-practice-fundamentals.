@@ -56,7 +56,11 @@
 
     2. ### High level Languages
 
-- 
+- An assembly language consists of a set of symbols and letters and requires translation to machine language. Both machine code and assembly languages are hardware specific. A high-level language is a programming language that uses English and mathematical symbols in its instructions.
+
+- [Low level and High level language video](https://www.youtube.com/watch?v=bUWCD45qniA)
+
+
 
 
 
