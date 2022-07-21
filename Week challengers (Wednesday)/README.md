@@ -7,6 +7,8 @@
 
 - Description: Your team has just seen the movie "Matrix" and you have been asked, how the number of your year of birth would be written in binary. You must learn how to translate your date of birth into binary and show your team. (Do not use a webpage or a tool to convert your date of birth)
 
+<br>
+
 >Solution
 
 - Year 1996
@@ -56,4 +58,5 @@
 
 - ### 2.02 = 4
 - ##### 4 - 4 = 0
+
 
