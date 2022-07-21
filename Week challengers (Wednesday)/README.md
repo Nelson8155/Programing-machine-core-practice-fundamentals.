@@ -37,4 +37,5 @@
 | 2.03        | 8           | 4
 | 2.02        | 4           | 0
 
-![Binary code](Week challengers (Wednesday)/binary-code-4437421_640.jpg)
+![Binary code!](Week challengers (Wednesday)/binary-code-4437421_640.jpg)
+
