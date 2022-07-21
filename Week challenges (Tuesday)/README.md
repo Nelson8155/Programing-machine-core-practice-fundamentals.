@@ -1,6 +1,3 @@
-# Programming-machine-core-practice-fundamentals.
-<br>
-
 **Week challenges (Tuesday)**
 
 
