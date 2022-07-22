@@ -39,5 +39,55 @@
 
 ![Binary code!](binary-code-4437421_640.jpg)
 
+<br>
 
+2. ### MIPS Exercise.
 
+<br>
+
+Create a program that adds any two given numbers provided by the user
+
+Create a program that displays your name
+
+<br>
+
+```
+  .data
+        message: .asciiz "\nNelson, Beltran!\n"
+  .text
+        main:
+              li $v0, 4
+              la $a0, message
+              syscall
+```
+
+```
+
+  .data
+	      number1: .asciiz "\nIngrese el primer numero: "
+	      number2: .asciiz "\nIngrese el segundo numero: "
+  .text
+	      main:
+              li $v0, 4
+              la $a0, number1
+              syscall
+
+              li $v0, 5
+              syscall
+
+              move $t0, $v0
+
+              li $v0, 4
+              la $a0, number2
+              syscall
+
+              li $v0, 5
+              syscall
+
+              move $t1, $v0
+
+              li $v0, 1
+              move $a0, $t0
+              syscall
+
+```
