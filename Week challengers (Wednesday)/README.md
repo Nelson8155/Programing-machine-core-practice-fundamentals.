@@ -60,7 +60,7 @@ Create a program that displays your name
               li $v0, 4
               la $a0, message
               syscall
-```assembly
+```
 
 
 ```assembly
@@ -106,4 +106,4 @@ Create a program that displays your name
               move $a0, $t2
               syscall
               
-```assembly
+```
