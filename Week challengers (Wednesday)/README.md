@@ -52,7 +52,6 @@ Create a program that displays your name
 <br>
 
 ```assembly
-
   .data
         message: .asciiz "\nNelson, Beltran!\n"
   .text
@@ -64,7 +63,6 @@ Create a program that displays your name
 
 
 ```assembly
-
   .data
 	      number1: .asciiz "\nIngrese el primer numero: "
 	      number2: .asciiz "\nIngrese el segundo numero: "
