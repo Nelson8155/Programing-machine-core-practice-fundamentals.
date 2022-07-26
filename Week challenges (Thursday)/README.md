@@ -14,13 +14,9 @@
 
 ```JavaScript
 
-let str = '';
-
 for (let i = 0; i <= 100; i++) {
-  str = str + i;
+ if(i % 2 == 0) console.log(i);
 }
-
-console.log(str);
 ```
 
 >*Exercuse with WHILE*
@@ -37,15 +33,11 @@ while (i <= 100) {
 
 ```JavaScript
 
-let result = '';
-let i = 0;
-
+var i = 0;
 do {
-  i = i + 1;
-  result = result + i;
-} while (i < 100);
-
-console.log(result);
+  if(i % 2 == 0)console.log(i);
+  i++
+} while (i <=100)
 ```
 <br>
 
