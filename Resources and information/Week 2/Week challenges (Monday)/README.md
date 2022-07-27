@@ -48,13 +48,17 @@ VM242:9 10
 
 > Example:
 
-- Let’s start by displaying some text several times until our condition is met.
+- Display Numbers from 1 to 5
 
 ```JavaScript
 
-for (var i = 0; i < 3; i++) {
-  let name = "John Doe";
-  console.log("Hi, my name is " + name);
+// program to display numbers from 1 to 5
+const n = 5;
+
+// looping from i = 1 to 5
+// in each iteration, i is increased by 1
+for (let i = 1; i <= n; i++) {
+    console.log(i);     // printing the value of i
 }
 ```
 
