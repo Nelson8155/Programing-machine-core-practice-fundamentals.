@@ -35,7 +35,13 @@ return (a + b).toString(2)
 }
 ```
 
-3. ### 
+3. ### Student's Final Grade exercise
+
+<br>
+
+```JavaScript
+
+
 
 
 
