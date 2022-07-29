@@ -19,6 +19,23 @@
 
 ```JavaScript
 
+function getChar(c){
+  return String.fromCharCode(c)
+}
+```
+
+3. ### Binary Addition exercise
+
+<br>
+
+```JavaScript
+
+function addBinary(a,b) {
+return (a + b).toString(2)
+}
+```
+
+3. ### 
 
 
 
